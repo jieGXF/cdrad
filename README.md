@@ -1,4 +1,4 @@
-# Standard Medical Imaging Noninvasively Predicts Nanomedicine Tumor Accumulation Using Interpretable Radiomics
+# Radiomics Model Predicts Nanomedicine Tumor Accumulation Based on Standard Medical Images
 <img width="1098" alt="fig1" src="https://github.com/user-attachments/assets/ce6179e1-2ea7-4b3a-983e-97ba127f6fb5">
 
 The repository serves as the official implementation of the paper titled "Standard Medical Imaging Noninvasively Predicts Nanomedicine Tumor Accumulation Using Interpretable Radiomics". This prediction is characterized by offering a non-invasive and effective method to aid in patient stratification based on tumour nanomedicine accumulation. This study underscores the potential of utilizing radiomics models, which integrate standard-of-care medical imaging with artificial intelligence, to accurately predict nanomedicine accumulation within tumours. The procedure is illustrated by the figure above. 
