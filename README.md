@@ -1,4 +1,4 @@
-# Radiomics Model Predicts Nanomedicine Tumor Accumulation Using Routine Medical Imaging
+# Interpretable Radiomics Model Predicts Nanomedicine Tumor Accumulation Using Routine Medical Imaging
 ![figure1](https://github.com/user-attachments/assets/bb49a18f-6563-4c2c-9149-0ed6ca2bdfb9)
 
 
