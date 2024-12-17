@@ -2,7 +2,7 @@
 ![figure1](https://github.com/user-attachments/assets/bb49a18f-6563-4c2c-9149-0ed6ca2bdfb9)
 
 
-The repository serves as the official implementation of the paper titled "Standard Medical Imaging Noninvasively Predicts Nanomedicine Tumor Accumulation Using Interpretable Radiomics". This prediction is characterized by offering a non-invasive and effective method to aid in patient stratification based on tumour nanomedicine accumulation. This study underscores the potential of utilizing radiomics models, which integrate standard-of-care medical imaging with artificial intelligence, to accurately predict nanomedicine accumulation within tumours. The procedure is illustrated by the figure above. 
+The repository serves as the official implementation of the paper titled "Interpretable Radiomics Model Predicts Nanomedicine Tumor Accumulation Using Routine Medical Imaging". This prediction is characterized by offering a non-invasive and effective method to aid in patient stratification based on tumour nanomedicine accumulation. This study underscores the potential of utilizing radiomics models, which integrate standard-of-care medical imaging with artificial intelligence, to accurately predict nanomedicine accumulation within tumours. The procedure is illustrated by the figure above. 
 # Environment Setup
 The code has been successfully tested using Python 3.11. Therefore, we suggest using this version or a later version of Python. A typical process for installing the package dependencies involves creating a new Python virtual environment.
 # Reproducing experiments
